@@ -1,1 +1,55 @@
+body{
+    background-color:rgba(185, 170, 238, 0.3);
+    background-position: center;
+    background-size: auto;
+    margin-right: 90px;
+}
+
+hr {
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
+.container1
+{
+    padding:12px;
+    margin-left: 75px;
+}
+.container2{
+    padding: 12px;
+    margin-left: 75px;
+}
+.container3
+{
+    padding:12px;
+    margin-left: 75px;
+}
+.container4{
+    padding:12px;
+    margin-left: 75px;
+}
+.container5{
+    padding:12px;
+    margin-left: 75px;
+}
+.container6{
+    padding:12px;
+    margin-left: 75px;
+    
+}
+.container7{
+    padding:12px;
+    margin-left: 75px;
+}
+.container8{
+    padding:12px;
+    margin-left: 75px;
+}
+.container9{
+    padding:12px;
+    margin-left: 75px;
+}
+h2{
+    background-color:cadetblue;
+}
 
